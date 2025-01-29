@@ -1,4 +1,4 @@
-vim-matlab
+vim-matlab (forked from daeyun/vim-matlab)
 ===========
 
 An alternative to Matlab's default editor for Vim users.
